@@ -1,2 +1,2 @@
 # VGG-for-MNIST
-VGG Model for classifying MNIST dataset
+VGG Model for classifying MNIST dataset using Keras
